@@ -1,16 +1,9 @@
-def Cat = maru
-
-end
-
 maru = Cat.new 
 maru.name = "Maru"
 
 maru.name
-# => "meow!"
-# => nil 
 
-  end
-end
+maru.meow
 
 
 ## code your solution here. 
