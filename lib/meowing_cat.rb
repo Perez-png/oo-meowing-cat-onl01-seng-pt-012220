@@ -7,5 +7,8 @@ maru.meow
 
 Class = Cat
 end
+attr_accessor
+def Cat 
+
 
 ## code your solution here. 
