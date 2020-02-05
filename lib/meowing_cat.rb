@@ -11,7 +11,7 @@ end
 attr_accessor = Cat 
 @Cat = meow
 @name = maru
-end
+ end
 end
  
 
